@@ -1,0 +1,7 @@
+4e={1:[2,'spandy','manager','19feb2002','200000'],2:[5,'ishu','ass manager','14mar2010',100000],3:[7,'pooja','supervisor','14apr2013',60000],4:[12,'rani','subordinate','19dec2018',45000]}
+x=int(input('enter the EMPLOYE NO:'))
+print('emp.no:',e[x][0])
+print('name of the emp:',e[x][1])
+print('designation of the emp:',e[x][2])
+print('doj of emp:',e[x][3])
+print('salary of emp:',e[x][4])
